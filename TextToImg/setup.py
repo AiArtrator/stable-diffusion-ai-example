@@ -1,5 +1,5 @@
 # pip install stability-sdk
-# 2. Import dependencies and set up our environment variables and API Key.
+# 2. Import dependencies and set up environment variables and API Key.
 
 import os
 import io
